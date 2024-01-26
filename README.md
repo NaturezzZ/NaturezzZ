@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![NaturezzZ's GitHub stats](https://github-readme-stats-naturezzz.vercel.app/api?username=NaturezzZ&count_private=true&show_icons=true)
+
 <!--
 **NaturezzZ/NaturezzZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
