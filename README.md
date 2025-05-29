@@ -5,4 +5,4 @@
 
 - 🔗 Visit my [homepage](https://www.zhengnq.com/) for more information。
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NaturezzZ&column=8&rank=-C" alt="NaturezzZ" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NaturezzZ&column=8&rank=-B,-C" alt="NaturezzZ" /></a> </p>
