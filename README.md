@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, this is NaturezzZ</h1>
+<h1 align="center">Hi there 👋, this is Naiqian Zheng</h1>
 <h3 align="center">I'm a PhD student from Peking University, China</h3>
 
 - 👨‍💻 I am working on improving system reliability, especially improving the reliability of network systems.
